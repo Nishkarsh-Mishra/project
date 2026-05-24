@@ -277,7 +277,7 @@ It uses **audio feature engineering** combined with Machine Learning classifiers
 
 ## Dataset Structure
 
-Audio dataset link - audio dataset link - https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition?select=KAGGLE
+Audio dataset link - https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition?select=KAGGLE
 
 ```text
 AUDIO/
@@ -406,7 +406,7 @@ This module focuses primarily on **face-based manipulation detection**.
 
 ## Dataset Used
 
-video dataset link - video dataset link - https://www.kaggle.com/datasets/ahmedelbanby/faceforensicsplusplus-c23-deepfakebench-structure?select=videos
+video dataset link - https://www.kaggle.com/datasets/ahmedelbanby/faceforensicsplusplus-c23-deepfakebench-structure?select=videos
 
 The project uses:
 
