@@ -63,7 +63,7 @@ The system consists of four major modules:
 | Fake Video Detection | Deep Learning    | Detect deepfake videos    |
 
 ---
-### 📊 Datasets Used
+### 📊 About Datasets 
 
 Due to GitHub file size limitations, the audio, image, and video datasets are not uploaded to this repository.
 You can download the datasets directly from the following Kaggle links and place them in the appropriate folders before running the project.
@@ -78,7 +78,7 @@ This model combines multiple datasets and applies extensive text preprocessing b
 
 ---
 
-## 📊 Dataset Used
+## Dataset Used
 
 This module combines:
 
@@ -171,6 +171,7 @@ The system uses pretrained CNN architecture for high accuracy and better feature
 ## Dataset Structure
 
 image dataset link - https://www.kaggle.com/datasets/duyminhle/real-fake-image-dataset?utm_source=chatgpt.com
+
 The model uses image folders:
 
 ```text
@@ -688,6 +689,20 @@ This project demonstrates practical understanding of:
 * Video Analysis
 
 ---
+## ⚠️ Important Note About Datasets
+
+The datasets are not included in this repository because:
+
+GitHub has file upload size limitations
+Deep learning datasets are extremely large
+Uploading large datasets makes repositories difficult to manage
+
+After downloading the datasets:
+
+Extract all files properly
+Place them in the correct folders
+Update dataset paths in notebooks if necessary
+Install all required dependencies before training/testing the models
 
 # ⚠️ Disclaimer
 
